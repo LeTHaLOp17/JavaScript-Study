@@ -1,2 +1,2 @@
 # JavaScript-Study
-Studing JavaScript
+Revision of JavaScript from chai aur code.
