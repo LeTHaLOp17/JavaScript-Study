@@ -37,5 +37,7 @@ console.log("B ", myArr);
 const myn2 = myArr.splice(1, 3)
 console.log("C ", myArr);
 console.log(myn2);
-
+//Diffrenece between slice and splice 
+// splice make changes in the origin array and slice not
+//and also splice include the digit but slice doesnot
 //checking if its work or not
